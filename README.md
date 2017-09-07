@@ -15,12 +15,12 @@ N/A = Water (~) - Blocked Terrain, so not able to walk
 
 Walkable
 ----------------
-User start(@)	- Movement cost for this terrain is 1
-Goal tile(X)	- Movement cost for this terrain is 1
+User start(@)	- Movement cost for this terrain is 1                           
+Goal tile(X)	- Movement cost for this terrain is 1                                        
 
-Flatlands (.) 	- Movement cost for this terrain is 1
-Forest (*) 		- Movement cost for this terrain is 2
-Mountain(^)		- Movement cost for this terrain is 3
+Flatlands (.) 	- Movement cost for this terrain is 1                         
+Forest (*) 		- Movement cost for this terrain is 2                          
+Mountain(^)		- Movement cost for this terrain is 3                                    
 
 Step to run the program:
 ===========================
