@@ -1,8 +1,8 @@
-package com.star.path.start;
+package com.astar.path.start;
 
 import java.util.Scanner;
 
-import com.star.path.finder.AStar;
+import com.astar.path.finder.AStar;
 
 /**
  * Test class to test the A* algorithm to trace out short path

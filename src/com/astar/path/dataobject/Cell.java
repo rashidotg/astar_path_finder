@@ -1,4 +1,4 @@
-package com.star.path.dataobject;
+package com.astar.path.dataobject;
 
 /**
  * 

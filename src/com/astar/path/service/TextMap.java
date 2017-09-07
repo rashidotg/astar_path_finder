@@ -1,6 +1,6 @@
 package com.astar.path.service;
 
-import com.star.path.dataobject.Cell;
+import com.astar.path.dataobject.Cell;
 
 /**
  * The description for the data for path finding. Data represented as two dimensional array of Cells or Terriles

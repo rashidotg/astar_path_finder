@@ -2,10 +2,10 @@ package com.astar.path.service.impl;
 
 import java.util.PriorityQueue;
 
+import com.astar.path.dataobject.Cell;
+import com.astar.path.dataobject.Terrain;
 import com.astar.path.service.TextMap;
-import com.star.path.dataobject.Cell;
-import com.star.path.dataobject.Terrain;
-import com.star.path.utilities.FileUtility;
+import com.astar.path.utilities.FileUtility;
 
 /**
  * Implementation class for TextMap interface This class represents the textMap read from file as a 2D Array of Cells

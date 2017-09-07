@@ -1,11 +1,11 @@
-package com.star.path.finder;
+package com.astar.path.finder;
 
 import java.io.IOException;
 import java.util.List;
 
 import com.astar.path.service.TextMap;
 import com.astar.path.service.impl.LargeTextMap;
-import com.star.path.utilities.FileUtility;
+import com.astar.path.utilities.FileUtility;
 
 /**
  * 

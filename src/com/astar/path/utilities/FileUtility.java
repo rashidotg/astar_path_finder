@@ -1,4 +1,4 @@
-package com.star.path.utilities;
+package com.astar.path.utilities;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -9,8 +9,8 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
 
-import com.star.path.dataobject.Cell;
-import com.star.path.dataobject.Terrain;
+import com.astar.path.dataobject.Cell;
+import com.astar.path.dataobject.Terrain;
 
 /**
  * 
