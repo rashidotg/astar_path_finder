@@ -1,5 +1,5 @@
-# astart_path_finder
-java project to trace out shortest path using a* algorithm
+# astar_path_finder
+java project to trace out the shortest path using a* algorithm
 
 A*
 ==============
